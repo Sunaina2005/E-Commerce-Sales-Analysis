@@ -108,37 +108,36 @@ Following inferences can be drawn from the dashboard;
       d) Same Day: $0.67M
 
 
- ### [4] Sales by Country:
+  ### [4] Sales by Country:
  
- 1.1) United States: $2.3M (29.01%)
+    1.1) United States: $2.3M (29.01%)
  
- 1.2) Australia: $0.93M (11.69%)
+    1.2) Australia: $0.93M (11.69%)
  
- 1.3) France: $0.86M (10.85%)
+    1.3) France: $0.86M (10.85%)
  
- 1.4) China: $0.7M (8.85%)
+    1.4) China: $0.7M (8.85%)
 
-1.5) Germany: $0.63M (7.94%)
+    1.5) Germany: $0.63M (7.94%)
 
-1.6) Mexico: $0.62M (7.86%)
+    1.6) Mexico: $0.62M (7.86%)
  
-
- ### [5] Shipping Cost and Quantity:
  
- 2.1)  Total Sales: $12.64M
+  ### [5] Shipping Cost and Quantity:
  
- 2.2)  Total Profit: $1.47M
+    2.1)  Total Sales: $12.64M
  
- 2.3)  Total Quantity Sold: 178K units
+    2.2)  Total Profit: $1.47M
  
- 2.4)  Total Shipping Cost: $1.35M
+    2.3)  Total Quantity Sold: 178K units
  
+    2.4)  Total Shipping Cost: $1.35M
          
-         
-### [6] Customer and Location Information:
+        
+  ### [6] Customer and Location Information:
 
-3.1) Total Countries: 147
+    3.1) Total Countries: 147
 
-3.2) Total States: 1,094
+    3.2) Total States: 1,094
 
-3.3) Total Cities: 3,636
+    3.3) Total Cities: 3,636
